@@ -1,6 +1,9 @@
 amarillo.logs.roku.com
+austin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
+cooper.logs.roku.com
+giga.logs.roku.com
 gilbert.logs.roku.com
 griffin.logs.roku.com
 hereford.logs.roku.com
@@ -14,5 +17,6 @@ richmond.logs.roku.com
 rollingwood.logs.roku.com
 scribe.logs.roku.com
 sugarland.logs.roku.com
+tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
