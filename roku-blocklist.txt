@@ -3,6 +3,8 @@ austin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
 cooper.logs.roku.com
+digdug.logs.roku.com
+esp.logs.roku.com
 giga.logs.roku.com
 gilbert.logs.roku.com
 griffin.logs.roku.com
