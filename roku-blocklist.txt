@@ -12,6 +12,7 @@ midland.logs.roku.com
 paolo.logs.roku.com
 richmond.logs.roku.com
 rollingwood.logs.roku.com
+scribe.logs.roku.com
 sugarland.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
