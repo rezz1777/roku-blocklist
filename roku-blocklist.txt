@@ -1,5 +1,4 @@
 amarillo.logs.roku.com
-austin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
 gilbert.logs.roku.com
