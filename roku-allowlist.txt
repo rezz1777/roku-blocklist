@@ -1,0 +1,6 @@
+# Name: roku-allowlist.txt
+# Last Updated: 4-10-2022
+
+# Anudeep ND's Blacklist blocks the following breaking tubi
+# Add the following to your whitelist if you have this blacklist enabled
+uapi.adrise.tv
