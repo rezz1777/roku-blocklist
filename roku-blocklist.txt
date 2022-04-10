@@ -1,5 +1,5 @@
 # Title: rezz1777 roku-blocklist.txt
-# Last Update Date: 4-9-2022
+# Last Update: 4-9-2022
 
 
 0.0.0.0 1111nilliberty.logs.roku.com
