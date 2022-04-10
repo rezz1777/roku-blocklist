@@ -1,45 +1,70 @@
-ads.roku.com
-amarillo.logs.roku.com
-amoeba-plus.web.roku.com
-api.sr.roku.com
-austin.logs.roku.com
-bryan.logs.roku.com
-camden.logs.roku.com
-cloudservices.roku.com
-cooper.logs.roku.com
-customer-feedbacks.web.roku.com
-digdug-g2.logs.roku.com
-digdug.logs.roku.com
-display.ravm.tv
-esp.logs.roku.com
-giga.logs.roku.com
-gilbert.logs.roku.com
-griffin.logs.roku.com
-hereford.logs.roku.com
-i.ads.roku.com
-identity-dev.ads.roku.com
-identity.ads.roku.com
-lagrange.logs.roku.com
-liberty.logs.roku.com
-littlefield.logs.roku.com
-logs.roku.com
-longview.logs.roku.com
-midland.logs.roku.com
-mobile.logs.roku.com
-p.ads.roku.com
-paolo.logs.roku.com
-raps-perf.ravm.tv
-raps.ravm.tv
-ravm.tv
-richmond.logs.roku.com
-rollingwood.logs.roku.com
-rxr.ravm.tv
-samples.voice.cti.roku.com
-scribe.logs.roku.com
-sugarland.logs.roku.com
-traces.sr.roku.com
-track.sr.roku.com
-tyler.logs.roku.com
-victoria.logs.roku.com
-windsor.logs.roku.com
-wwwimg.roku.com
+# Title: rezz1777 roku-blocklist.txt
+# Release: 4-8-2022
+# This file should limit ads on roku devices and can be implemented by
+# using either pi-hole or pfblocker. 
+
+
+0.0.0.0 1111nilliberty.logs.roku.com
+0.0.0.0 111inilliberty.logs.roku.com
+0.0.0.0 1iiinilliberty.logs.roku.com
+0.0.0.0 1.1iiinilliberty.logs.roku.com
+0.0.0.0 ads.roku.com
+0.0.0.0 amarillo.logs.roku.com
+0.0.0.0 amoeba-plus.web.roku.com
+0.0.0.0 api.sr.roku.com
+0.0.0.0 austin.logs.roku.com
+0.0.0.0 benjamin.logs.roku.com
+0.0.0.0 benjamin-w.logs.roku.com
+0.0.0.0 bryan.logs.roku.com
+0.0.0.0 camden.logs.roku.com
+0.0.0.0 cloudservices.roku.com
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 customer-feedbacks.web.roku.com
+0.0.0.0 delta.ads.roku.com
+0.0.0.0 delta-staging.ads.roku.com
+0.0.0.0 digdug-g2.logs.roku.com
+0.0.0.0 digdug.logs.roku.com
+0.0.0.0 display.ravm.tv
+0.0.0.0 er.logs.roku.com
+0.0.0.0 esp.logs.roku.com
+0.0.0.0 external.logs.roku.com
+0.0.0.0 giga.logs.roku.com
+0.0.0.0 gilbert.logs.roku.com
+0.0.0.0 griffin.logs.roku.com
+0.0.0.0 hereford.logs.roku.com
+0.0.0.0 i.ads.roku.com
+0.0.0.0 identity-dev.ads.roku.com
+0.0.0.0 identity.ads.roku.com
+0.0.0.0 identity-internal.ads.roku.com
+0.0.0.0 identity-internal-dev.ads.roku.com
+0.0.0.0 info.ads.roku.com
+0.0.0.0 inlicooper.logs.roku.com
+0.0.0.0 lagrange.logs.roku.com
+0.0.0.0 lb.logs.roku.com
+0.0.0.0 liberty.logs.roku.com
+0.0.0.0 littlefield.logs.roku.com
+0.0.0.0 logs.roku.com
+0.0.0.0 longview.logs.roku.com
+0.0.0.0 madison.logs.roku.com
+0.0.0.0 marlin.logs.roku.com
+0.0.0.0 midland.logs.roku.com
+0.0.0.0 mobile.logs.roku.com
+0.0.0.0 p.ads.roku.com
+0.0.0.0 paolo.logs.roku.com
+0.0.0.0 raps-perf.ravm.tv
+0.0.0.0 raps.ravm.tv
+0.0.0.0 ravm.tv
+0.0.0.0 richmond.logs.roku.com
+0.0.0.0 rollingwood.logs.roku.com
+0.0.0.0 rxr.ravm.tv
+0.0.0.0 samples.voice.cti.roku.com
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 sugarland.logs.roku.com
+0.0.0.0 traces.sr.roku.com
+0.0.0.0 track.sr.roku.com
+0.0.0.0 tyler.logs.roku.com
+0.0.0.0 victoria.logs.roku.com
+0.0.0.0 vscribe.logs.roku.com
+0.0.0.0 windsor.logs.roku.com
+0.0.0.0 wwindsor.logs.roku.com
+0.0.0.0 wwwimg.roku.com
