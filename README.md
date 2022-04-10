@@ -1,3 +1,3 @@
 # roku-blocklist
 
-Roku blocklist for pi-hole or pfblocker.
+Roku blocklist for dns sinkholes like pi-hole/pfblockerng or other netfilters.
