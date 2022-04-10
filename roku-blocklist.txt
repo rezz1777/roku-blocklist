@@ -9,7 +9,6 @@
 0.0.0.0 ads.roku.com
 0.0.0.0 amarillo.logs.roku.com
 0.0.0.0 amoeba-plus.web.roku.com
-0.0.0.0 api.sr.roku.com
 0.0.0.0 austin.logs.roku.com
 0.0.0.0 benjamin.logs.roku.com
 0.0.0.0 benjamin-w.logs.roku.com
