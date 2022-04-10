@@ -1,7 +1,5 @@
 # Title: rezz1777 roku-blocklist.txt
-# Release: 4-8-2022
-# This file should limit ads on roku devices and can be implemented by
-# using either pi-hole or pfblocker. 
+# Last Update Date: 4-9-2022
 
 
 0.0.0.0 1111nilliberty.logs.roku.com
