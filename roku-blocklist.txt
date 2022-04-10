@@ -12,6 +12,7 @@
 0.0.0.0 austin.logs.roku.com
 0.0.0.0 benjamin.logs.roku.com
 0.0.0.0 benjamin-w.logs.roku.com
+0.0.0.0 bif.sr.roku.com
 0.0.0.0 bryan.logs.roku.com
 0.0.0.0 camden.logs.roku.com
 0.0.0.0 cloudservices.roku.com
