@@ -1,2 +1,3 @@
 # roku-blocklist
-Roku blocklist 
+
+Roku blocklist for pi-hole or pfblocker.
