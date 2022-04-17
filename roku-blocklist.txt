@@ -69,6 +69,7 @@
 0.0.0.0 wwwimg.roku.com
 
 #Plex
+0.0.0.0 analytics.plex.tv
 0.0.0.0 plex.tv
 0.0.0.0 tvdb2.plex.tv
 0.0.0.0 pubsub.plex.bz
