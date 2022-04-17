@@ -49,6 +49,7 @@
 0.0.0.0 mobile.logs.roku.com
 0.0.0.0 p.ads.roku.com
 0.0.0.0 paolo.logs.roku.com
+0.0.0.0 prod.mobile.roku.com
 0.0.0.0 raps-perf.ravm.tv
 0.0.0.0 raps.ravm.tv
 0.0.0.0 ravm.tv
