@@ -31,8 +31,8 @@
 0.0.0.0 griffin.logs.roku.com
 0.0.0.0 hereford.logs.roku.com
 0.0.0.0 i.ads.roku.com
-0.0.0.0 identity-dev.ads.roku.com
 0.0.0.0 identity.ads.roku.com
+0.0.0.0 identity-dev.ads.roku.com
 0.0.0.0 identity-internal.ads.roku.com
 0.0.0.0 identity-internal-dev.ads.roku.com
 0.0.0.0 info.ads.roku.com
