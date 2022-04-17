@@ -75,6 +75,7 @@
 0.0.0.0 cpms35.spop10.ams.plex.bz
 0.0.0.0 cpms.spop10.ams.plex.bz
 0.0.0.0 dashboard.plex.tv
+0.0.0.0 play.provider.plex.tv
 0.0.0.0 plex.tv
 0.0.0.0 pubsub.plex.bz
 0.0.0.0 pubsub.plex.tv
