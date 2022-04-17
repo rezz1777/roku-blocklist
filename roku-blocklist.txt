@@ -72,9 +72,11 @@
 0.0.0.0 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 0.0.0.0 analytics.plex.tv
 0.0.0.0 app.plex.tv
+0.0.0.0 d1llxi18ksjgb3.cloudfront.net
 0.0.0.0 cpms35.spop10.ams.plex.bz
 0.0.0.0 cpms.spop10.ams.plex.bz
 0.0.0.0 dashboard.plex.tv
+0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 play.provider.plex.tv
 0.0.0.0 plex.tv
 0.0.0.0 pubsub.plex.bz
@@ -92,7 +94,8 @@
 0.0.0.0 ns2-plexdirect.plex.bz
 0.0.0.0 ns3-plexdirect.plex.bz
 0.0.0.0 o1.email.plex.tv 
-0.0.0.0 o2.sg0.plex.tv 
+0.0.0.0 o2.sg0.plex.tv
+0.0.0.0 static.adsafeprotected.com
 0.0.0.0 status.plex.tv
 0.0.0.0 staging.plex.tv
 0.0.0.0 tvdb2.plex.tv
