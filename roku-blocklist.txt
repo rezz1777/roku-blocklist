@@ -89,7 +89,6 @@
 0.0.0.0 metrics.plex.tv
 0.0.0.0 node.plexapp.com
 0.0.0.0 nine.plugins.plexapp.com
-0.0.0.0 ns-plexdirect.plex.bz
 0.0.0.0 o1.email.plex.tv 
 0.0.0.0 o2.sg0.plex.tv
 0.0.0.0 pubsub.plex.tv
