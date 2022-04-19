@@ -7,3 +7,11 @@ uapi.adrise.tv
 www.uapi.adrise.tv
 lb.production-public.tubi.io # CNAME for (uapi.adrise.tv)
 
+#Developer Dans
+vod.provider.plex.tv 
+www.vod.provider.plex.tv 
+adrise.tv 
+www.adrise.tv 
+tubi.io 
+www.tubi.io
+
