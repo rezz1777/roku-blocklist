@@ -1,15 +1,47 @@
 # Name: roku-allowlist.txt
 # Last Updated: 4-10-2022
 
-# Anudeep ND's Blacklist blocks the following breaking tubi
-# Add the following to your whitelist if you have this blacklist enabled
 uapi.adrise.tv
 www.uapi.adrise.tv
-lb.production-public.tubi.io # CNAME for (uapi.adrise.tv)
-
-#Developer Dans 
-adrise.tv 
-www.adrise.tv 
-tubi.io 
-www.tubi.io
+lb.production-public.tubi.io # CNAME for (tensor.production-public.tubi.io)
+adrise.tv # cdn.adrise
+www.adrise.tv # cdn.adrise
+tubi.io # account
+www.tubi.io # account
+app.plex.tv # app.plex
+www.app.plex.tv # app.plex
+cdn.adrise.tv # cdn.adrise
+www.cdn.adrise.tv # cdn.adrise
+d25v1115e8pawl.cloudfront.net # CNAME for (cdn.adrise.tv)
+popper-engine.production-public.tubi.io
+www.popper-engine.production-public.tubi.io
+lb4.production-public.tubi.io # CNAME for (popper-engine.production-public.tubi.io)
+analytics-ingestion.production-public.tubi.io
+www.analytics-ingestion.production-public.tubi.io
+account.production-public.tubi.io
+www.account.production-public.tubi.io
+tensor.production-public.tubi.io
+www.tensor.production-public.tubi.io
+conviva.com
+www.conviva.com
+ravm.tv
+www.ravm.tv
+cws.conviva.com
+www.cws.conviva.com
+license.adrise.tv
+www.license.adrise.tv
+s.adrise.tv
+www.s.adrise.tv
+cws-us-east.conviva.com
+www.cws-us-east.conviva.com
+cws-sjc2-rdc2.conviva.com # CNAME for (cws-us-east.conviva.com)
+googlesyndication.com
+www.googlesyndication.com
+doubleclick.net
+www.doubleclick.net
+pagead2.googlesyndication.com
+www.pagead2.googlesyndication.com
+pubads.g.doubleclick.net
+www.pubads.g.doubleclick.net
+partnerad.l.doubleclick.net # CNAME for (pubads.g.doubleclick.net)
 
