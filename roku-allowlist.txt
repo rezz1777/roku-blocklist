@@ -1,21 +1,24 @@
 # Name: roku-allowlist.txt
 # Last Updated: 4-10-2022
+# If you are running other blocklists such as Developer Dan 
+# or Steven Black you will need to whitelist the following
+# otherwise some services will break such as cw plex pluto and tubi
 
 uapi.adrise.tv
 www.uapi.adrise.tv
-lb.production-public.tubi.io # CNAME for (tensor.production-public.tubi.io)
-adrise.tv # cdn.adrise
-www.adrise.tv # cdn.adrise
-tubi.io # account
-www.tubi.io # account
-app.plex.tv # app.plex
-www.app.plex.tv # app.plex
-cdn.adrise.tv # cdn.adrise
-www.cdn.adrise.tv # cdn.adrise
-d25v1115e8pawl.cloudfront.net # CNAME for (cdn.adrise.tv)
+lb.production-public.tubi.io
+adrise.tv
+www.adrise.tv
+tubi.io
+www.tubi.io
+app.plex.tv
+www.app.plex.tv
+cdn.adrise.tv
+www.cdn.adrise.tv
+d25v1115e8pawl.cloudfront.net
 popper-engine.production-public.tubi.io
 www.popper-engine.production-public.tubi.io
-lb4.production-public.tubi.io # CNAME for (popper-engine.production-public.tubi.io)
+lb4.production-public.tubi.io
 analytics-ingestion.production-public.tubi.io
 www.analytics-ingestion.production-public.tubi.io
 account.production-public.tubi.io
@@ -34,7 +37,7 @@ s.adrise.tv
 www.s.adrise.tv
 cws-us-east.conviva.com
 www.cws-us-east.conviva.com
-cws-sjc2-rdc2.conviva.com # CNAME for (cws-us-east.conviva.com)
+cws-sjc2-rdc2.conviva.com
 googlesyndication.com
 www.googlesyndication.com
 doubleclick.net
@@ -43,5 +46,5 @@ pagead2.googlesyndication.com
 www.pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 www.pubads.g.doubleclick.net
-partnerad.l.doubleclick.net # CNAME for (pubads.g.doubleclick.net)
+partnerad.l.doubleclick.net
 
