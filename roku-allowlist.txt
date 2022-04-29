@@ -1,5 +1,5 @@
 # Name: roku-allowlist.txt
-# Last Updated: 4-10-2022
+# Last Updated: 4-28-2022
 # If you are running other blocklists such as Developer Dan 
 # or Steven Black you will need to whitelist the following
 # otherwise some services will break such as cw plex pluto and tubi
