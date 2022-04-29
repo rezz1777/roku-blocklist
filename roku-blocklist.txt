@@ -1,4 +1,4 @@
-# Title: rezz1777 roku-blocklist.txt
+# Title: roku-blocklist.txt
 # Last Update: 4-28-2022
 
 #Roku
